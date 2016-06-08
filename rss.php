@@ -18,7 +18,7 @@
         ],
         "rule": {
             ".icon-room": {
-                "background": "url('')",
+                "background": "url('http://i.imgur.com/yF1Uvt3.jpg')",
                 "left": "0px",
                 "top": "0px"
             },
