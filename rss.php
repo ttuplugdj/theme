@@ -231,6 +231,16 @@
             }
         }
     },
+        "images": {
+        "background": "http://i.imgur.com/yF1Uvt3.jpg",
+        "booth": "",
+        "icons": {
+            "bouncer": "http://i.imgur.com/9GpyZIv.png",
+            "cohost": "http://images.wikia.com/finalfantasy/images/archive/c/cf/20090317045512!Circle-button.png",
+            "host": "http://i.imgur.com/cg2cY8L.png",
+            "manager": "http://i.imgur.com/asT8i4i.png",
+            "residentdj": "http://i.imgur.com/OemFhJE.png"
+        },
     "rules": {
         "allowAutowoot":        true,
         "allowAutojoin":        true,
