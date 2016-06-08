@@ -232,7 +232,7 @@
         }
     },
         "images": {
-        "background": "http://i.imgur.com/yF1Uvt3.jpg",
+        "background": "https://cdn.radiant.dj/rcs/bg/10.png",
         "icons": {
             "bouncer": "http://i.imgur.com/9GpyZIv.png",
             "cohost": "http://images.wikia.com/finalfantasy/images/archive/c/cf/20090317045512!Circle-button.png",
